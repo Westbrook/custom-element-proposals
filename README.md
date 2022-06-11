@@ -6,7 +6,7 @@ This repo represents a collections of explainers, problem spaced, proposals, and
 
 The following are a list of things that I think are interesting that I'll be attempting to formulate thoughts on in other branches:
 
-- aria attribute reflection
+- [aria attribute reflection](proposals/aria-attribute-reflection/)
 - custom element modules
 - declarative custom elements
 - declarative web components
